@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-05T04:15:39.129463Z</date>
+  <millis>1578197739129</millis>
+  <nanos>463000</nanos>
+  <sequence>0</sequence>
+  <logger>Logs</logger>
+  <level>INFO</level>
+  <class>com.company.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>upload_commands /Users/joelshearon/Desktop/MoveThatBus/src/com/company/tests/breakit.txt</message>
+</record>
+<record>
+  <date>2020-01-05T04:20:40.142582Z</date>
+  <millis>1578198040142</millis>
+  <nanos>582000</nanos>
+  <sequence>1</sequence>
+  <logger>Logs</logger>
+  <level>INFO</level>
+  <class>com.company.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Exited at: java.text.SimpleDateFormat@b847bece</message>
+</record>
+</log>

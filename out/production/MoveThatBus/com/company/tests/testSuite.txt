@@ -1,0 +1,44 @@
+add_bus 69 69bus 69 69
+sys_report system
+add_stop 69 69stop 69 69
+sys_report system
+add_route 69 69route
+sys_report system
+add_route_for_bus 69 69
+sys_report system
+add_stop_to_route 69 69
+sys_report system
+add_stop 70 70stop 70 70
+sys_report system
+add_stop_to_route 70 69
+sys_report system
+start_sim 2
+sys_report system
+add_bus 70 70bus 70 70
+sys_report system
+add_route_for_bus 69 70
+sys_report system
+start_sim 1
+sys_report system
+start_sim 2
+sys_report system
+add_route 70 70route
+sys_report system
+add_stop_to_route 69 70
+add_stop_to_route 70 70
+sys_report system
+add_route_for_bus 70 70
+sys_report system
+start_sim 1
+sys_report system
+start_sim 2
+sys_report system
+sys_report bus
+sys_report stops
+sys_report routes
+sys_report commands
+help
+-h
+--help
+help add_bus
+sys_report commands

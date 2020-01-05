@@ -1,0 +1,257 @@
+joel is me
+add_bus 69 69bus 69 69
+add_stop 69 69stop 69 69
+add_route 69 69route
+add_route_for_bus 69 69
+add_stop_to_route 69 69
+add_stop 70 70stop 70 70
+add_stop_to_route 70 69
+start_sim 2
+sys_report system
+add_bus 70 70bus 70 70
+add_route_for_bus 69 70
+start_sim 1
+start_sim 2
+joel is me
+add_route 70 70route
+add_stop_to_route 69 70
+add_stop_to_route 70 70
+add_route_for_bus 70 70
+start_sim 1
+start_sim 2
+sys_report system
+add_bus 71 71bus 72 72
+add_route 72 72route
+add_stop_to_route 69 72
+add_stop_to_route 70 72
+add_stop 72 72stop 72 72
+add_stop_to_route 72 72
+add_route_for_bus 72 71
+start_sim 3
+add_bus 69 69bus 69 69
+add_stop 69 69stop 69 69
+add_route 69 69route
+add_route_for_bus 69 69
+add_stop_to_route 69 69
+add_stop 70 70stop 70 70
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+joel is me
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+--help upload_commands
+--help start_sim
+--help sys_report
+add_stop_to_route 70 69
+start_sim 2
+sys_report system
+add_bus 70 70bus 70 70
+add_route_for_bus 69 70
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+joel is me
+--help upload_commands
+--help start_sim
+--help sys_report
+start_sim 1
+start_sim 2
+add_route 70 70route
+add_stop_to_route 69 70
+add_stop_to_route 70 70
+add_route_for_bus 70 70
+start_sim 1
+start_sim 2
+sys_report system
+add_bus 71 71bus 72 72
+add_route 72 72route
+add_stop_to_route 69 72
+add_stop_to_route 70 72
+add_stop 72 72stop 72 72
+add_stop_to_route 72 72
+add_route_for_bus 72 71
+start_sim 3
+add_bus 69 69bus 69 69
+add_stop 69 69stop 69 69
+add_route 69 69route
+add_route_for_bus 69 69
+add_stop_to_route 69 69
+add_stop 70 70stop 70 70
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+joel is me
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+--help upload_commands
+--help start_sim
+--help sys_report
+add_stop_to_route 70 69
+start_sim 2
+sys_report system
+add_bus 70 70bus 70 70
+add_route_for_bus 69 70
+start_sim 1
+start_sim 2
+add_route 70 70route
+add_stop_to_route 69 70
+add_stop_to_route 70 70
+add_route_for_bus 70 70
+start_sim 1
+add_bus 69 69bus 69 69
+add_stop 69 69stop 69 69
+add_route 69 69route
+add_route_for_bus 69 69
+add_stop_to_route 69 69
+add_stop 70 70stop 70 70
+add_stop_to_route 70 69
+start_sim 2
+sys_report system
+add_bus 70 70bus 70 70
+add_route_for_bus 69 70
+start_sim 1
+start_sim 2
+add_route 70 70route
+add_stop_to_route 69 70
+add_stop_to_route 70 70
+add_route_for_bus 70 70
+start_sim 1
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+--help upload_commands
+--help start_sim
+--help sys_report
+start_sim 2
+sys_report system
+add_bus 71 71bus 72 72
+add_route 72 72route
+add_stop_to_route 69 72
+add_stop_to_route 70 72
+add_stop 72 72stop 72 72
+add_stop_to_route 72 72
+add_route_for_bus 72 71
+start_sim 3
+start_sim 2
+sys_report system
+joel is me
+add_bus 71 71bus 72 72
+add_route 72 72route
+add_stop_to_route 69 72
+add_stop_to_route 70 72
+add_stop 72 72stop 72 72
+add_stop_to_route 72 72
+add_route_for_bus 72 71
+start_sim 3
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+--help upload_commands
+--help start_sim
+--help sys_report
+joel is me
+joel is me
+joel is me
+sys_report system

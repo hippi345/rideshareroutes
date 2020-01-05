@@ -1,0 +1,27 @@
+help
+help add_bus
+help add_stop
+help add_route
+help add_route_for_bus
+help add_stop_to_route
+help upload_commands
+help start_sim
+help sys_report
+-h
+-h add_bus
+-h add_stop
+-h add_route
+-h add_route_for_bus
+-h add_stop_to_route
+-h upload_commands
+-h start_sim
+-h sys_report
+--help
+--help add_bus
+--help add_stop
+--help add_route
+--help add_route_for_bus
+--help add_stop_to_route
+--help upload_commands
+--help start_sim
+--help sys_report
